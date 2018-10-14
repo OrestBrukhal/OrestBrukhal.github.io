@@ -1,0 +1,33 @@
+body {
+    background-image: url('../imgs/Darksiders-image-darksiders-36465112-1920-1200.jpg');
+    background-size: cover;
+    
+}
+form {
+    background-color: rgb(32, 30, 44);
+    border: 1px solid;
+    border-radius: 5px;
+    width: 16%;
+    margin-top: 10%;
+    
+    padding-right: 10%;
+}
+input {
+    border: 2px solid dimgray;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(57, 59, 59);
+    color: aliceblue;
+    padding-right: 65%;
+}
+h2 {
+    font-family: serif fantasy;
+    color: rgb(100, 52, 52);
+    padding-left: 10px;
+}
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: lightslategrey;
+    padding-left: 10px;
+}
